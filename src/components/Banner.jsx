@@ -18,8 +18,8 @@ const Banner = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.5, ease: "easeInOut" }}
           src={education}
-          alt=""
-          className="w-[600px]  md:max-w-[350px] object-cover drop-shadow"
+          alt="education"
+          className=" object-cover drop-shadow w-[350px] md:max-w-[450px]"
         />
       </div>
       {/* Banner Text */}
